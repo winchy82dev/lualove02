@@ -16,5 +16,5 @@
 
 ## how to run the program
 
-Alt+l to launch the application
-F5 to lanch the application with debugging
+- Alt+l to launch the application
+- F5 to lanch the application with debugging
