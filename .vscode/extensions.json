@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "tomblind.local-lua-debugger-vscode",
+        "trixnz.vscode-lua",
+        "menerv.love2d-launcher",
+        "bschulte.love",
+        "pixelbyte-studios.pixelbyte-love2d"
+    ]
+}
